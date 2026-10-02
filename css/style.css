@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    background-color: #F5F0E6;
+    color: #292929;
+    font-size: 2em;
+    font-family: Helvetica, sans-serif;
+    padding: 1em;
+}
+
+/* header */
+
+header {
+    background-color: #CBDF90;
+    color: #292929;
+    text-align: center;
+    padding: 2em;
+    margin-bottom: 1em;
+    border: 2px #292929;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 5rem;
+    font-weight: bold;
+    margin-bottom: 0.3em;
+}
+
+#description {
+    font-size: 0.8em;
+    font-style: italic;
+}
+
+/* buttons */
+
+.buttons {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+button {
+    color: #FFFFFF;
+    border: 2px solid #292929;
+    border-radius: 20px;
+    padding: 0.8em 1.4em;
+    margin: 0.8em;
+    font-size: 0.8em;
+    font-weight: bold;
+}
+
+button:hover {
+    background-color: #292929;
+    color: #FFFFFF;
+}
+
+.btn {
+    background-color: #1B4079;
+}
+
+.btn_style {
+    background-color: #4D7C8A;
+}
+
+.btn_about {
+    background-color: #7F9C96;
+}
+
+
+/* cards */
+
+section {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.card {
+    background-color: #FFFFFF;
+    color: #292929;
+    width: 40rem;
+    height: 30rem;
+    border: 2px solid #1B4079;
+    border-radius: 15px;
+    box-shadow: 5px 5px 10px rgba(27, 64, 121, 0.5);
+    padding: 2em;
+    margin: 1em;
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+}
+
+
+.card:hover {
+    background-color: #F1F5F8;
+}
+
+.card h2 {
+    color: #1B4079;
+    font-size: 2.4rem;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
+
+.card p {
+    font-size: 0.75em;
+    margin-bottom: 0.8em;
+}
+
+.card p:last-child {
+    font-style: italic;
+}
+
+
+/* footer */
+
+footer {
+    text-align: center;
+    margin-top: 2em;
+    padding: 1em;
+    border-top: 2px solid #292929;
+    font-size: 0.6em;
+}
+
+
+/* dark theme */
+
+.dark {
+    background-color: #061826;
+    color: #FFFFFF;
+}
+
+.dark header {
+    background-color: #6B7FD7;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}
+
+.dark button:hover {
+    background-color: #FFFFFF;
+    color: #292929;
+}
+
+.dark .btn {
+    background-color: #0B4D6E;
+}
+
+.dark .btn_style {
+    background-color: #3685B5;
+}
+
+.dark .btn_about {
+    background-color: #89AAE6;
+}
+
+.dark .card {
+    background-color: #575656;
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+    box-shadow: 5px 5px 10px rgba(255, 255, 255, 0.5);
+}
+
+.dark .card h2 {
+    color: #6B7FD7;
+}
+
+.dark .card:hover {
+    background-color: #686868;
+}
+
+.dark footer {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+}

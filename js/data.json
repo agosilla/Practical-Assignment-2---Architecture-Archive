@@ -1,0 +1,74 @@
+[
+    {
+        "title": "Casa sobre el Arroyo",
+        "architect": "Amancio Williams",
+        "location": "Mar del Plata, Argentina",
+        "year": 1946,
+        "movement": "Modernism",
+        "description": "A house elevated above a natural stream, connecting architecture and landscape through a reinforced concrete structure."
+    },
+    {
+        "title": "Villa Savoye",
+        "architect": "Le Corbusier",
+        "location": "Poissy, France",
+        "year": 1931,
+        "movement": "International Style",
+        "description": "A modernist residence organized around pilotis, free plan, horizontal windows and a roof garden."
+    },
+    {
+        "title": "Farnsworth House",
+        "architect": "Ludwig Mies van der Rohe",
+        "location": "Illinois, USA",
+        "year": 1951,
+        "movement": "International Style",
+        "description": "A transparent glass house reduced to a precise structural frame and an open relationship with the surrounding landscape."
+    },
+    {
+        "title": "Salk Institute",
+        "architect": "Louis Kahn",
+        "location": "La Jolla, USA",
+        "year": 1965,
+        "movement": "Modernism",
+        "description": "A research center organized around a monumental courtyard that frames the Pacific Ocean."
+    },
+    {
+        "title": "Fallingwater",
+        "architect": "Frank Lloyd Wright",
+        "location": "Pennsylvania, USA",
+        "year": 1939,
+        "movement": "Organic Architecture",
+        "description": "A house composed of horizontal concrete terraces that extend above a natural waterfall and integrate architecture with the landscape."
+    },
+    {
+        "title": "Barcelona Pavilion",
+        "architect": "Ludwig Mies van der Rohe",
+        "location": "Barcelona, Spain",
+        "year": 1929,
+        "movement": "Modernism",
+        "description": "A pavilion exploring open space, geometric planes, luxurious materials and a continuous relationship between interior and exterior."
+    },
+    {
+        "title": "Glass House",
+        "architect": "Philip Johnson",
+        "location": "Connecticut, USA",
+        "year": 1949,
+        "movement": "International Style",
+        "description": "A minimalist glass residence defined by transparency, a simple structural frame and a strong connection to its landscape."
+    },
+    {
+        "title": "Maison de Verre",
+        "architect": "Pierre Chareau",
+        "location": "Paris, France",
+        "year": 1932,
+        "movement": "Modernism",
+        "description": "An innovative modernist house combining translucent glass blocks, exposed structure and flexible interior elements."
+    },
+    {
+        "title": "Unité d'Habitation",
+        "architect": "Le Corbusier",
+        "location": "Marseille, France",
+        "year": 1952,
+        "movement": "Brutalism",
+        "description": "A large residential building conceived as a vertical city with apartments, collective facilities and communal spaces."
+    }
+]
