@@ -1,10 +1,12 @@
-function deployProjects() {
+const section = document.querySelector("section");
 
+function deployProjects() {
+    
     fetch("js/data.json")
         .then(res => res.json())
         .then(projects => {
 
-            document.querySelector("section").innerHTML = projects.map((project) =>
+            section.innerHTML = projects.map((project) =>
 
                 `<div class="card">
                     <h2>${project.title}</h2>
